@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/65e665cf-b338-4950-9fd4-dc3476cf4918
+https://github.com/user-attachments/assets/55b6fe27-2c09-44ac-970a-6e7b15337ee1
 <h1 align="center">🎮 LAB EXERCISE 5 - SECV2213 FUNDAMENTALS OF COMPUTER GRAPHICS</h1>
 <h3 align="center">🧊 3D Textured Cube with Interaction & Sound</h3>
 
