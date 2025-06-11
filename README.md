@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/65e665cf-b338-4950-9fd4-dc3476cf4918
 <h1 align="center">🎮 LAB EXERCISE 5 - SECV2213 FUNDAMENTALS OF COMPUTER GRAPHICS</h1>
 <h3 align="center">🧊 3D Textured Cube with Interaction & Sound</h3>
 
@@ -31,10 +32,3 @@ This lab exercise showcases a blend of key concepts in computer graphics includi
 - Plays the *"Conan Detective" theme* using `PlaySound()` from the *Windows API*.
 - Adds a fun, dynamic feel to the program 🎵
 
----
-
-## 🛠️ How to Run
-
-1. 🔧 Compile with any C++ compiler that supports OpenGL + WinMM (for sound):
-   ```bash
-   g++ main.cpp -lopengl32 -lglu32 -lfreeglut -lwinmm -o textured_cube
